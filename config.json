@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachevarse",
+        "uuid": 19326450,
+        "checksum": "2wfdi"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
